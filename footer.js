@@ -1,1 +1,1 @@
-console.log("ich bin der footer");
+console.log("ich bin der footer von Niko");
