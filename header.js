@@ -1,1 +1,1 @@
-console.log("ich bin der header von Ralf");
+console.log("ich bin der header");
