@@ -1,3 +1,1 @@
-
-console.log("Ich bin der fix");
-
+console.log("Ich bin der footer");

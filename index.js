@@ -1,3 +1,1 @@
-
-console.log("Ich bin der andere fix");
-
+console.log("Hallo Welt");
